@@ -131,11 +131,8 @@ If we make material changes, we will update the effective date on this page. Con
 ## 11. Contact Us
 
 If you have any questions about this Privacy Policy or the App’s privacy practices, please contact us:
-
-- Developer: <Your Developer Name>
-- Email: <Your Contact Email>
+- Email: <Micky.Wang@outlook.com>
 - App Name: FrameGlimpse
-
 ---
 
 ## 12. End User License Agreement (EULA)
