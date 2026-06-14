@@ -1,9 +1,6 @@
 # Privacy Policy for FrameGlimpse
 
-Effective Date: 2026-06-14  
-Applies to: FrameGlimpse iOS App
 
----
 
 ## 1. Our Privacy Principles
 
