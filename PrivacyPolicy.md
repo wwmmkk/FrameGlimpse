@@ -225,14 +225,14 @@ If we make material changes, we will update the effective date on this page. Con
 
 If you have any questions about this Privacy Policy, the App’s privacy practices, or deletion of feedback emails or diagnostic logs you previously sent, please contact us:
 
-* Email: [Micky.Wang@outlook.com](mailto:Micky.Wang@outlook.com)
+* Email: Micky.Wang@outlook.com
 * App Name: Frame Glimpse
 
 ---
 
-## 15. End User License Agreement (EULA)
+## 15. End User License Agreement
 
-Frame Glimpse uses Apple’s Standard End User License Agreement (Apple Standard EULA). If no custom license agreement is provided in App Store Connect, Apple’s Standard EULA applies.
+Frame Glimpse uses Apple’s Standard End User License Agreement. If no custom license agreement is provided in App Store Connect, Apple’s Standard EULA applies.
 
 Apple Standard EULA:
 
