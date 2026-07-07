@@ -4,7 +4,7 @@
 
 Frame Glimpse is an on-device media utility that helps you find and save moments from videos and Live Photos, and review old screenshots or similar photos.
 
-This Privacy Policy explains what data the App may access, what stays on your device, what may be sent to us only when you choose to send feedback, and how we use that information.
+This Privacy Policy explains what data the App may access, what stays on your device, what may be sent to us only when you choose to send feedback, and how we use that information. 
 
 ---
 
