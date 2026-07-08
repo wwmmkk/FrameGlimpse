@@ -1,11 +1,11 @@
-# Frame Glimpse
+# FrameGlimpse
 A local image processing tool that helps you find the best moments from videos and Live Photos.
 
-# Privacy Policy for Frame Glimpse
+# Privacy Policy for FrameGlimpse
 
 **Effective Date: July 6, 2026**
 
-Frame Glimpse is an on-device media utility that helps you find and save moments from videos and Live Photos, and review old screenshots or similar photos.
+FrameGlimpse is an on-device media utility that helps you find and save moments from videos and Live Photos, and review old screenshots or similar photos.
 
 This Privacy Policy explains what data the App may access, what stays on your device, what may be sent to us only when you choose to send feedback, and how we use that information. 
 
@@ -13,7 +13,7 @@ This Privacy Policy explains what data the App may access, what stays on your de
 
 ## 1. Our Privacy Principles
 
-Frame Glimpse is designed with the following privacy principles:
+FrameGlimpse is designed with the following privacy principles:
 
 * **On-device processing:** media analysis and cleanup happen on your device whenever possible.
 * **No media uploads:** we do not upload your photos, videos, Live Photos, screenshots, or thumbnails to our servers.
@@ -41,7 +41,7 @@ This access is used to:
 
 If you use iOS Limited Photos access, the App can only access the items you choose to allow.
 
-Frame Glimpse does not upload your photos, videos, Live Photos, screenshots, or thumbnails to our servers.
+FrameGlimpse does not upload your photos, videos, Live Photos, screenshots, or thumbnails to our servers.
 
 ---
 
@@ -102,7 +102,7 @@ When you use cleanup features to delete old screenshots or similar photos:
 
 ## 6. Diagnostic Logs and Feedback
 
-Frame Glimpse may keep a local rolling diagnostic log on your device to help diagnose technical problems, crashes, failed media processing, scanning issues, import/export issues, Live Activity issues, and other app functionality problems.
+FrameGlimpse may keep a local rolling diagnostic log on your device to help diagnose technical problems, crashes, failed media processing, scanning issues, import/export issues, Live Activity issues, and other app functionality problems.
 
 The diagnostic log may include:
 
@@ -136,7 +136,7 @@ We do not use diagnostic logs for advertising, marketing, cross-app or cross-web
 
 ## 7. Data We Do Not Collect Automatically
 
-Unless this Privacy Policy is updated in the future, the current version of Frame Glimpse:
+Unless this Privacy Policy is updated in the future, the current version of FrameGlimpse:
 
 * does not require you to create an account or sign in;
 * does not automatically collect your name, email address, phone number, or account information;
@@ -164,7 +164,7 @@ If you choose to send feedback by email or through the system share sheet, your 
 
 ## 9. Children’s Privacy
 
-Frame Glimpse provides local media processing features for general users. The App does not require users to create an account or provide a name, email address, phone number, or other identity information.
+FrameGlimpse provides local media processing features for general users. The App does not require users to create an account or provide a name, email address, phone number, or other identity information.
 
 We do not knowingly collect personal information from children.
 
@@ -229,13 +229,13 @@ If we make material changes, we will update the effective date on this page. Con
 If you have any questions about this Privacy Policy, the App’s privacy practices, or deletion of feedback emails or diagnostic logs you previously sent, please contact us:
 
 * Email: Micky.Wang@outlook.com
-* App Name: Frame Glimpse
+* App Name: FrameGlimpse
 
 ---
 
 ## 15. End User License Agreement
 
-Frame Glimpse uses Apple’s Standard End User License Agreement. If no custom license agreement is provided in App Store Connect, Apple’s Standard EULA applies.
+FrameGlimpse uses Apple’s Standard End User License Agreement. If no custom license agreement is provided in App Store Connect, Apple’s Standard EULA applies.
 
 Apple Standard EULA:
 
