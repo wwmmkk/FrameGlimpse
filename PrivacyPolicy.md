@@ -300,6 +300,4 @@ If you have any questions about this Privacy Policy, the App’s privacy practic
 
 ## 15. End User License Agreement
 
-FrameGlimpse uses Apple’s Standard End User License Agreement:
-
-https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+FrameGlimpse uses [Apple’s Standard End User License Agreement](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/).
